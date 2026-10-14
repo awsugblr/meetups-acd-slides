@@ -7,6 +7,7 @@ This repository collects presentation slides shared by speakers at AWS Community
 - [September 2026 — Harness meetup](sept-2026-harness-meetup/README.md)
   - [Harness AI CD](sept-2026-harness-meetup/Harness%20AI%20CD.pdf)
   - [From Failed Deployment to Fixed PR — AI SRE Agent on AWS + Kubernetes](sept-2026-harness-meetup/From%20Failed%20Deployment%20to%20Fixed%20PR%20%E2%80%94%20AI%20SRE%20Agent%20on%20AWS%20%2B%20Kubernetes.pdf)
+  - [What Breaks When an AI Agent Meets Production](sept-2026-harness-meetup/AWSUGBLR-Harness-Shreya-What-Breaks-AI-Agent-Production.pdf)
 
 ## Contributing slides
 
